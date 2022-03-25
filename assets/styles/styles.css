@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-size: 57%;
+  /* scroll-behavior: smooth; */
+  background-color: rgb(255, 255, 255);
+  font-family: Trebuchet MS, sans-serif;
+}
+
+header {
+  background-color: #0fb1af;
+}
+.left-container {
+  background-color: white;
+  height: 50%;
+  width: 50%;
+}
+.right-container {
+  background-color: #0fb4c5;
+  height: 50%;
+  width: 50%;
+}
