@@ -14,13 +14,6 @@ html {
 header {
   background-color: #0fb1af;
 }
-.left-container {
-  background-color: white;
-  height: 50%;
-  width: 50%;
-}
-.right-container {
-  background-color: #0fb4c5;
-  height: 50%;
-  width: 50%;
+
+body {
 }
